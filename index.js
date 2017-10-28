@@ -1,5 +1,5 @@
 const app = "I don't do much."
-kittens = ["Milo", "Otis", "Garfield"]
+var kittens = ["Milo", "Otis", "Garfield"]
 
 //changes array
 function destructivelyAppendKitten(name) {
